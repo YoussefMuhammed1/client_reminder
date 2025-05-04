@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "499758128330",
+    "project_id": "pillreminder-bbbe9",
+    "storage_bucket": "pillreminder-bbbe9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499758128330:android:6e21ff0fd0bbca42376833",
+        "android_client_info": {
+          "package_name": "com.example.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499758128330-9akjhetsqa1tk3n1g4feaj48vs20hl7d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.test",
+            "certificate_hash": "af461d300bec7ac7600df20396e00cb1c6f0c376"
+          }
+        },
+        {
+          "client_id": "499758128330-bcljjg1mgtkq4tclkmrtkch3br0nkf41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuz5q2YduATtLFipGhbiDuzGnukhAh41g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499758128330-bcljjg1mgtkq4tclkmrtkch3br0nkf41.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "499758128330-vef1ifu2j86liiskja56r2a62feqnv9r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.test"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
